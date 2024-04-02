@@ -30,7 +30,7 @@ public class MapelFragment extends Fragment {
         listViewMapel = rootView.findViewById(R.id.listViewMapel);
 
         // Create an array of student names
-        String[] mapelNames = {"Informatimati", "Mobile dev", "Web dev", "Game Valorant", "Puky"};
+        String[] mapelNames = {"Informatika", "Mobile dev", "Web dev", "Game dev"};
 
         // Create an ArrayAdapter to populate the ListView
         ArrayAdapter<String> adapter = new ArrayAdapter<>(requireContext(), android.R.layout.simple_list_item_1, mapelNames);

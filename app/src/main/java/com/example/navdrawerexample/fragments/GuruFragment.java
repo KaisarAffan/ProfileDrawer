@@ -30,7 +30,7 @@ public class GuruFragment extends Fragment {
         listViewGuru = rootView.findViewById(R.id.listViewGuru);
 
         // Create an array of student names
-        String[] guruNames = {"Aji Suryawan", "Agus", "Dwi Janto", "Fahmi", "Jefri Nikoll"};
+        String[] guruNames = {"Aji Suryawan", "Agus", "Dwi Janto", "Fahmi",};
 
         // Create an ArrayAdapter to populate the ListView
         ArrayAdapter<String> adapter = new ArrayAdapter<>(requireContext(), android.R.layout.simple_list_item_1, guruNames);
