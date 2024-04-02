@@ -1,0 +1,27 @@
+<!-- res/layout/nav_header_main.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="@drawable/head">
+
+    <!-- Your profile picture or icon -->
+    <ImageView
+        android:id="@+id/imageViewProfile"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/kesar" />
+
+    <!-- User name or other information -->
+    <TextView
+        android:id="@+id/textViewUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageViewProfile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:text="Kaisar Affan"
+        android:textColor="#2F4871"
+        android:textSize="18sp" />
+</RelativeLayout>
