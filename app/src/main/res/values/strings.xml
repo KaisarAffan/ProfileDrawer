@@ -8,7 +8,7 @@
         <item>ayam bakar</item>
         <item>opor ayam</item>
         <item>iga bakar</item>
-        <item>margarita pizza</item>
+        <item>margherita pizza</item>
         <item>dimsum</item>
         <item>cilor</item>
         <item>indomie</item>
@@ -32,59 +32,45 @@
     </string-array>
 
     <string-array name="minumanTitle">
-        <item>ayam goreng</item>
-        <item>ayam bakar</item>
-        <item>opor ayam</item>
-        <item>iga bakar</item>
-        <item>margarita pizza</item>
-        <item>dimsum</item>
-        <item>cilor</item>
-        <item>indomie</item>
-        <item>botok petet</item>
-        <item>katsu don dori</item>
-        <item>makanan gratis</item>
+        <item>Teh anget</item>
+        <item>es jeruk</item>
+        <item>bajigur</item>
+        <item>es teler</item>
+        <item>susu</item>
+        <item>matcha</item>
+        <item>kopi</item>
+        <item>egg coffee</item>
+        <item>air mineral</item>
     </string-array>
 
     <string-array name="minumanDesc">
-        <item>ayam yang digoreng</item>
-        <item>ayam yang dibakar</item>
-        <item>ayam yang dimasak opor</item>
-        <item>iga sapi yang dibakar</item>
-        <item>pizza yang bertoping mozzarela chese dan tomato souce</item>
-        <item>siomay orang cina</item>
-        <item>aci yang dikasih telor</item>
-        <item>mie khas indonesia</item>
-        <item>botok daging yang dikasih sayur petet</item>
-        <item>katsu don yang katsunya dari ikan dori filet</item>
-        <item>makanan yang di berikkan gratis</item>
+        <item>daun teh yang diseduh dengan air panas</item>
+        <item>jeruk peras tambah es batu</item>
+        <item>nikmat dari santen jahe gula aren dipadukan roti</item>
+        <item>es serut bertoping alpukat nangka klapa dan SKM</item>
+        <item>susu sapi seger enak</item>
+        <item>Matcha adalah suket atau teh hijau berbentuk bubuk</item>
+        <item>kopi dari rahtawu/kopi muria enak banget cik!</item>
+        <item>khas vietname kopi yang diberi telur berbentuk foam</item>
+        <item>air berkah dari allah</item>
     </string-array>
 
     <string-array name="warungTitle">
-        <item>ayam goreng</item>
-        <item>ayam bakar</item>
-        <item>opor ayam</item>
-        <item>iga bakar</item>
-        <item>margarita pizza</item>
-        <item>dimsum</item>
-        <item>cilor</item>
-        <item>indomie</item>
-        <item>botok petet</item>
-        <item>katsu don dori</item>
-        <item>makanan gratis</item>
+        <item>Io catring</item>
+        <item>geprek sancy</item>
+        <item>geprek kudus</item>
+        <item>sultan fried chicken</item>
+        <item>lamongan depan DPU</item>
+        <item>Kasmini</item>
     </string-array>
 
     <string-array name="warungDesc">
-        <item>ayam yang digoreng</item>
-        <item>ayam yang dibakar</item>
-        <item>ayam yang dimasak opor</item>
-        <item>iga sapi yang dibakar</item>
-        <item>pizza yang bertoping mozzarela chese dan tomato souce</item>
-        <item>siomay orang cina</item>
-        <item>aci yang dikasih telor</item>
-        <item>mie khas indonesia</item>
-        <item>botok daging yang dikasih sayur petet</item>
-        <item>katsu don yang katsunya dari ikan dori filet</item>
-        <item>makanan yang di berikkan gratis</item>
+        <item>kantin sekolah</item>
+        <item>warung geprek</item>
+        <item>warung geprek</item>
+        <item>warung fried chicken</item>
+        <item>warung lamongan depan DPU</item>
+        <item>warung ayam goreng</item>
     </string-array>
 
 
