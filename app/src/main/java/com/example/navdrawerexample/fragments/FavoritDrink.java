@@ -56,8 +56,8 @@ public class FavoritDrink extends Fragment {
     }
 
     private void menu() {
-        String[] title =getResources().getStringArray(R.array.makananTitle);
-        String[] desc =getResources().getStringArray(R.array.makananDesc);
+        String[] title =getResources().getStringArray(R.array.minumanTitle);
+        String[] desc =getResources().getStringArray(R.array.minumanDesc);
 
         for (int i=0; i<title.length;i++){
             drink.add(new Item(image[i],title[i],desc[i]));

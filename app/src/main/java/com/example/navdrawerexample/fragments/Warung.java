@@ -58,8 +58,8 @@ public class Warung extends Fragment {
     }
 
     private void menu() {
-        String[] title =getResources().getStringArray(R.array.makananTitle);
-        String[] desc =getResources().getStringArray(R.array.makananDesc);
+        String[] title =getResources().getStringArray(R.array.warungTitle);
+        String[] desc =getResources().getStringArray(R.array.warungDesc);
 
         for (int i=0; i<title.length;i++){
             resep.add(new Item(image[i],title[i],desc[i]));

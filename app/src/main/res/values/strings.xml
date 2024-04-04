@@ -31,5 +31,61 @@
         <item>makanan yang di berikkan gratis</item>
     </string-array>
 
+    <string-array name="minumanTitle">
+        <item>ayam goreng</item>
+        <item>ayam bakar</item>
+        <item>opor ayam</item>
+        <item>iga bakar</item>
+        <item>margarita pizza</item>
+        <item>dimsum</item>
+        <item>cilor</item>
+        <item>indomie</item>
+        <item>botok petet</item>
+        <item>katsu don dori</item>
+        <item>makanan gratis</item>
+    </string-array>
+
+    <string-array name="minumanDesc">
+        <item>ayam yang digoreng</item>
+        <item>ayam yang dibakar</item>
+        <item>ayam yang dimasak opor</item>
+        <item>iga sapi yang dibakar</item>
+        <item>pizza yang bertoping mozzarela chese dan tomato souce</item>
+        <item>siomay orang cina</item>
+        <item>aci yang dikasih telor</item>
+        <item>mie khas indonesia</item>
+        <item>botok daging yang dikasih sayur petet</item>
+        <item>katsu don yang katsunya dari ikan dori filet</item>
+        <item>makanan yang di berikkan gratis</item>
+    </string-array>
+
+    <string-array name="warungTitle">
+        <item>ayam goreng</item>
+        <item>ayam bakar</item>
+        <item>opor ayam</item>
+        <item>iga bakar</item>
+        <item>margarita pizza</item>
+        <item>dimsum</item>
+        <item>cilor</item>
+        <item>indomie</item>
+        <item>botok petet</item>
+        <item>katsu don dori</item>
+        <item>makanan gratis</item>
+    </string-array>
+
+    <string-array name="warungDesc">
+        <item>ayam yang digoreng</item>
+        <item>ayam yang dibakar</item>
+        <item>ayam yang dimasak opor</item>
+        <item>iga sapi yang dibakar</item>
+        <item>pizza yang bertoping mozzarela chese dan tomato souce</item>
+        <item>siomay orang cina</item>
+        <item>aci yang dikasih telor</item>
+        <item>mie khas indonesia</item>
+        <item>botok daging yang dikasih sayur petet</item>
+        <item>katsu don yang katsunya dari ikan dori filet</item>
+        <item>makanan yang di berikkan gratis</item>
+    </string-array>
+
 
 </resources>
