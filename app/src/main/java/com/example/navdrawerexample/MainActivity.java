@@ -9,9 +9,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.drawerlayout.widget.DrawerLayout;
 
-import com.example.navdrawerexample.fragments.SiswaFragment;
-import com.example.navdrawerexample.fragments.MapelFragment;
-import com.example.navdrawerexample.fragments.GuruFragment;
+import com.example.navdrawerexample.fragments.Warung;
+import com.example.navdrawerexample.fragments.FavoritDrink;
+import com.example.navdrawerexample.fragments.FavoritFood;
 import com.google.android.material.navigation.NavigationView;
 
 public class MainActivity extends AppCompatActivity {
@@ -46,14 +46,14 @@ public class MainActivity extends AppCompatActivity {
                     showSiswaPage();
                 } else if (itemId == R.id.menu_item2) {
                     getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.content_frame, new GuruFragment())
+                            .replace(R.id.content_frame, new FavoritFood())
                             .commit();
-                    getSupportActionBar().setTitle("Guru Page");
+                    getSupportActionBar().setTitle("Favourite Food");
                 } else if (itemId == R.id.menu_item3) {
                     getSupportFragmentManager().beginTransaction()
-                            .replace(R.id.content_frame, new MapelFragment())
+                            .replace(R.id.content_frame, new FavoritDrink())
                             .commit();
-                    getSupportActionBar().setTitle("Mapel Page");
+                    getSupportActionBar().setTitle("Favourite Drink");
                 }
 
                 drawerLayout.closeDrawers();
@@ -70,10 +70,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void showSiswaPage() {
         getSupportFragmentManager().beginTransaction()
-                .replace(R.id.content_frame, new SiswaFragment())
+                .replace(R.id.content_frame, new Warung())
                 .commit();
 
-        getSupportActionBar().setTitle("Siswa Page");
+        getSupportActionBar().setTitle("Warung");
     }
 
 }

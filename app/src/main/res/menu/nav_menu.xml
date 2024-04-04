@@ -4,14 +4,14 @@
     <item
         android:id="@+id/menu_item1"
         android:icon="@android:drawable/btn_star_big_off"
-        android:title="siswa" />
+        android:title="resep" />
     <item
         android:id="@+id/menu_item2"
         android:icon="@android:drawable/ic_menu_myplaces"
-        android:title="guru" />
+        android:title="makanan" />
     <item
         android:id="@+id/menu_item3"
         android:icon="@android:drawable/ic_menu_today"
-        android:title="mata pelajaran" />
+        android:title="minuman" />
     <!-- Add more items as needed -->
 </menu>
